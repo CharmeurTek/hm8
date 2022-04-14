@@ -73,7 +73,4 @@ document.querySelector("form").addEventListener("submit", e => {
   table.appendChild(row6);
   
   elements.appendChild(table);
-
-
-
 });
