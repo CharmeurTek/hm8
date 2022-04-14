@@ -1,0 +1,23 @@
+
+body {
+    font-family: Calibri, sans-serif;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr, td {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+th {
+    background-color: lightgray;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
